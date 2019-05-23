@@ -13,10 +13,6 @@ body, html {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    /*
-    fixed = efekt parralax  
-    scroll = normalne scrollowanie strony
-    */
     background-attachment: fixed;
 }
 .pimg1{
