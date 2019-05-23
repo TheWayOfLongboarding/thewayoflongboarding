@@ -47,6 +47,16 @@ body, html {
     background-color:#282e34;
     color:#ddd;
 }
+.text2{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
 .text{
     position: absolute;
     top: 50%;
@@ -57,7 +67,7 @@ body, html {
     letter-spacing: 8px;
     text-transform: uppercase;
 }
-.text .border{
+.text2 .border,.text .border{
     background-color:#111;
     color: #fff;
     padding:30px;
