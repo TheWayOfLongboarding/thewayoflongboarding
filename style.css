@@ -70,3 +70,6 @@ body, html {
         background-attachment: scroll;
     }
 }
+a {
+    text-decoration: none;
+}
