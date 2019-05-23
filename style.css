@@ -20,19 +20,19 @@ body, html {
     background-attachment: fixed;
 }
 .pimg1{
-    background-image: url(../img/pic0.jpg);
+    background-image: url(pic0.jpg);
     min-height: 100%;
 }
 .pimg2{
-    background-image: url(../img/pic1.jpg)        ;
+    background-image: url(pic1.jpg)        ;
     min-height: 400px;
 }
 .pimg3{
-    background-image: url(../img/pic3.png);
+    background-image: url(pic3.png);
     min-height: 400px;
 }
 .pimg4{
-    background-image: url(../img/pic4.jpg);
+    background-image: url(pic4.jpg);
     min-height: 400px;
 }
 .section{
